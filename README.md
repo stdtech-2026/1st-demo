@@ -1,3 +1,4 @@
 # 1st-demo
-its my first repos
-authrer me nasir
+its my first repository.
+<br>
+authrer me nasir.
