@@ -8,6 +8,7 @@ authrer me nasir.
 
 
 <br>
+
 #include <iostream>
 using namespace std;
 
@@ -21,7 +22,7 @@ public:
 class dog : public animal{
 public:
     void bark(){
-        cout<< "dog is barking" <<endl;
+        cout<< "a dog is barking" <<endl;
     }
 };
 int main(){
