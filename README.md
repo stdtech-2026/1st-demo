@@ -14,7 +14,7 @@ using namespace std;
 class animal{
 public:
     void eat(){
-        cout<< "animal is eating" <<endl;
+        cout<< "an ganimal is eating" <<endl;
     }
 };
 

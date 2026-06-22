@@ -1,0 +1,6 @@
+#include <iostream>
+using namespace std;
+int amin(){
+    cout<<"jsut checking tracking" <<endl;
+    return 0;
+}
